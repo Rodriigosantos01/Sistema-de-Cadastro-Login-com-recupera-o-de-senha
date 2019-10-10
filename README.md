@@ -1,4 +1,4 @@
-# Sistema-de-Cadastro-Login-com-recupera-o-de-senha
+# Sistema-de-Cadastro-Login-com-recuperacao-de-senha
 Sistema simples de cadastro e login + recuperação de senha
 
 Foi ultilizado as linguagens
